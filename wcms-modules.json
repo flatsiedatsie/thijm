@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "thijm": {
+            "name": "Thijm",
+            "repo": "https://github.com/flatsiedatsie/thijm/tree/master",
+            "zip": "https://github.com/flatsiedatsie/thijm/archive/master.zip",
+            "summary": "Aangepaste Sky theme door Tijmen",
+            "version": "1.0.1",
+            "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+        }
+    }
+}
